@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHtmltoPdf", "BlazorHtmltoPdf\BlazorHtmltoPdf.csproj", "{EB39BE21-EB0E-4AE5-8F8A-C5962258D7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB39BE21-EB0E-4AE5-8F8A-C5962258D7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB39BE21-EB0E-4AE5-8F8A-C5962258D7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB39BE21-EB0E-4AE5-8F8A-C5962258D7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB39BE21-EB0E-4AE5-8F8A-C5962258D7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFDCCD1-1F20-485E-8A9D-632227FA841A}
+	EndGlobalSection
+EndGlobal
